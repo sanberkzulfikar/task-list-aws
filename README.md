@@ -1,4 +1,4 @@
-# Full Stack React Crud App Tutorial
+# Full Stack React Crud App
 
 ## Instructions to start project
 
